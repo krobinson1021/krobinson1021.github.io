@@ -1,0 +1,17 @@
+/* Theme */
+
+main {
+	background-image: url("background.png");
+ 	background-repeat: no-repeat;
+ 	background-position: right top;
+  	background-attachment: fixed;
+	color: #FAFAFA;
+}
+
+.icons-social a {
+	color: #FAFAFA;
+}
+
+.icons-social a svg path{
+	fill: #FAFAFA;
+}
